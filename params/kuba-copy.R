@@ -13,3 +13,4 @@ species.name <- "Phylloscopus_sibilatrix"
 color <- "blue"
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
+#fidjsbvlhjdsb;c lhcjbfgdsujk.xzc vlipusew;odbcj. clhivfdskn
